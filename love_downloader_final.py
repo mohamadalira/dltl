@@ -12,7 +12,7 @@ API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = "7890752478:AAG2lEqrjSJtUsChNfna3C4XCueIaqpzQiA"
 
 CHANNEL_USERNAME = "eshghabadi_twt"
-FILE_CHANNEL_ID = -1002516050852
+FILE_CHANNEL_ID = https://t.me/c/2516050852/12
 
 bot = Client("eshgheabadi_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
