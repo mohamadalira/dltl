@@ -8,7 +8,7 @@ API_HASH = "YOUR_API_HASH"  # ← از my.telegram.org بگیر
 BOT_TOKEN = " YOUR_BOT_TOKEN"
 
 CHANNEL_USERNAME = "eshghabadi_twt"
-FILE_CHANNEL_ID = https://t.me/c/2516050852/12
+FILE_CHANNEL_ID = "https://t.me/c/2516050852/12"
 
 bot = Client("eshgheabadi_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
