@@ -2,10 +2,10 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 import asyncio
 
-API_ID = "19195306"   # ← از my.telegram.org بگیر
-API_HASH = "a1321adc5800be28176c2f75db5992bf"  # ← از my.telegram.org بگیر
+API_ID = "API_ID"   # ← از my.telegram.org بگیر
+API_HASH = "API_HASH"  # ← از my.telegram.org بگیر
 
-BOT_TOKEN = " 7890752478:AAG2lEqrjSJtUsChNfna3C4XCueIaqpzQiA"
+BOT_TOKEN = "BOT_TOKEN"
 
 CHANNEL_USERNAME = "eshghabadi_twt"
 FILE_CHANNEL_ID = "1002516050852"
